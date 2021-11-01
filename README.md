@@ -1,2 +1,2 @@
 # toxic-comments-classifier
-nlp
+datase link : https://www.kaggle.com/hrishikeshkini/toxic-comment-classifier/download
